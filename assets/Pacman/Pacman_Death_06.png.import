@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://r7mr03r4wn23"
-path="res://.godot/imported/Arcade - Pac-Man - Miscellaneous - Maze Parts.png-1138158a04302c608fdf8ec6a259ad2e.ctex"
+uid="uid://bs55ta550rsj3"
+path="res://.godot/imported/Pacman_Death_06.png-bcd73569ff9e63ad026fc0624f7ebec5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Arcade - Pac-Man - Miscellaneous - Maze Parts.png"
-dest_files=["res://.godot/imported/Arcade - Pac-Man - Miscellaneous - Maze Parts.png-1138158a04302c608fdf8ec6a259ad2e.ctex"]
+source_file="res://assets/Pacman/Pacman_Death_06.png"
+dest_files=["res://.godot/imported/Pacman_Death_06.png-bcd73569ff9e63ad026fc0624f7ebec5.ctex"]
 
 [params]
 
